@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @mijitrenkel, currently MSc student at Imperical College London 
-- 👀 I’m interested in OOP, dynamic programming, machine learning, and financial analysis. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me trenkelmiji@gmail.com
 
