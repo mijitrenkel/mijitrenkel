@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mijitrenkel, currently MSc student at Imperical College London 
+- 👋 Hi, I’m @mijitrenkel, currently MSc student at Imperial College London 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me trenkelmiji@gmail.com
 
